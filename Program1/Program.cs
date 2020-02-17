@@ -11,6 +11,7 @@ namespace Program1
             string name = Console.ReadLine();
             // Приветствие пользователя по имени
             Console.WriteLine("Привет, " + name);
+            Console.WriteLine("Привет, " + name);
             // Ожидание реакции пользователя
             Console.WriteLine("Нажмите <Enter> для входа...");
             Console.Read();
